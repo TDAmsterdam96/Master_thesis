@@ -6,7 +6,7 @@ Cryptocurrency Fraud Detection: Supervised Machine Learning for Illicit Ethereum
 [![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
 
 > **Author**: [Thomas Dornigg](https://www.linkedin.com/in/thomas-dornigg/) <br>
-> **Supervisor**: Prof. XYZ <br>
+> **Supervisor**: Prof. Torsten JOCHEM <br>
 > **Academic year**: 2021/22
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
