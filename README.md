@@ -1,4 +1,4 @@
-Cryptocurrency Fraud - Detecting Fraudulent Transactions with Machine Learning Models
+Cryptocurrency Fraud Detection: Supervised Machine Learning for Illicit Ethereum Transactions
 ======================================================
 
 > Master thesis submitted at the Faculty of Economics and Business (Sectie Finance) at Universiteit van Amsterdam (UvA)
