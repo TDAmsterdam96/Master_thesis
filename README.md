@@ -26,7 +26,7 @@ Regarding the machine learning problem we are facing in this project, since we a
 
 In this project, the goals achieved are :
 - Data Exploration routines are designed and implemented to do standard statistical analysis and visualization.
-- Classification models such as Logistic Regression, Random Forest, XGBoost, Decision Tree, AdaBoost and Support Vector Machine are built to predict whether or not an applicant will be able to repay a loan
+- Classification models such as Logistic Regression, Random Forest, XGBoost, Decision Tree, AdaBoost and Support Vector Machine are built to predict whether or not a transaction is fraudulent
 - Evaluated Classification models by Accuracy, Precision, Recall, True Negative Rate, True Positive Rate, False Negative Rate, False Positive Rate and ROC – AUC chart
 
 ## Data Sources
